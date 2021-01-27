@@ -1,0 +1,3 @@
+[submodule "submodules/XbimGeometry_UWP"]
+	path = submodules/XbimGeometry_UWP
+	url = https://github.com/pabloinigoblasco/XbimGeometry.git
