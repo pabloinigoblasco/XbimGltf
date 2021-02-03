@@ -24,11 +24,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xbim.ModelGeometry.Scene", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Xbim.Geometry.Engine", "..\XbimGeometry\Xbim.Geometry.Engine\Xbim.Geometry.Engine.vcxproj", "{DEFB2CD3-B35F-450A-A829-D3FE50CFC19A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XbimPropertySets", "..\XbimPropertySets\XbimPropertySets\XbimPropertySets.csproj", "{AD5E613A-E308-4748-9A47-03F355BEC0AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XbimPropertySets", "..\XbimPropertySets\XbimPropertySets\XbimPropertySets.csproj", "{AD5E613A-E308-4748-9A47-03F355BEC0AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{3337B8A4-BD6C-493C-A75A-8B8EC7552AD3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XbimPropertyTest", "XbimPropertyTest\XbimPropertyTest.csproj", "{F8639C38-CAE2-479E-9F34-58CB9862CACA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{3337B8A4-BD6C-493C-A75A-8B8EC7552AD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -182,26 +180,6 @@ Global
 		{3337B8A4-BD6C-493C-A75A-8B8EC7552AD3}.Release|x64.Build.0 = Release|Any CPU
 		{3337B8A4-BD6C-493C-A75A-8B8EC7552AD3}.Release|x86.ActiveCfg = Release|Any CPU
 		{3337B8A4-BD6C-493C-A75A-8B8EC7552AD3}.Release|x86.Build.0 = Release|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Debug|ARM.ActiveCfg = Debug|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Debug|ARM.Build.0 = Debug|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Debug|ARM64.ActiveCfg = Debug|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Debug|ARM64.Build.0 = Debug|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Debug|x64.Build.0 = Debug|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Debug|x86.Build.0 = Debug|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Release|ARM.ActiveCfg = Release|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Release|ARM.Build.0 = Release|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Release|ARM64.ActiveCfg = Release|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Release|ARM64.Build.0 = Release|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Release|x64.ActiveCfg = Release|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Release|x64.Build.0 = Release|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Release|x86.ActiveCfg = Release|Any CPU
-		{F8639C38-CAE2-479E-9F34-58CB9862CACA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
